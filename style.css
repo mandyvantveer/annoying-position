@@ -1,0 +1,57 @@
+.rood {
+    width: 1366px;
+    height: 150px;
+    background: red;
+    top: 0;
+    left: 0;
+
+}
+.blauw1 {
+    width: 214px;
+    height: 214px;
+    background: blue;
+    position:relative;
+    top: 114px;
+    left: 43px;
+}
+.rood2 {
+width: 60px;
+height: 60px;
+background: red;
+position: relative;
+top: 154px;
+left: 154px;
+}
+.grey {
+    width: 599px;
+    height: 1348px;
+    background: #cbcbcb;
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    
+}
+.black {
+    width: 1366px;
+    height: 100px;
+    background: black;
+    position: fixed;
+    top: 700px;
+    left: 0px;
+}
+.groen {
+    width: 214px;
+    height: 214px;
+    background: green;
+    position: absolute;
+    top: 800px;
+    left: 1150px;
+}
+.rood3 {
+width: 60px;
+height: 60px;
+background: red;
+position: relative;
+top: 154px;
+left: 154px;
+}
